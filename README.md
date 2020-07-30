@@ -5,4 +5,5 @@ Fillit ne consiste pas Ã  recoder Tetris, mais reste une variante du jeu dans lâ
 FILLIT utilise la 
 [LIBFT](https://github.com/yataji/libft)
 
+TERIMINOS
 ![tetriminos](https://static.trueachievements.com/customimages/041184.jpg)
